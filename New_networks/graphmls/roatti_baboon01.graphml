@@ -1,0 +1,308 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="Age_Giver" attr.type="double"/>
+<graph edgedefault="undirected"><node id="Addede"/>
+<node id="1"/>
+<node id="Amlimb"/>
+<node id="Anvont"/>
+<node id="Asovsi"/>
+<node id="Auenus"/>
+<node id="Au19us"/>
+<node id="Bearea"/>
+<node id="Brtero"/>
+<node id="Byonyr"/>
+<node id="Caviap"/>
+<node id="Callar"/>
+<node id="Chbeho"/>
+<node id="CJJDJD"/>
+<node id="Clrale"/>
+<node id="Cohooe"/>
+<node id="Coinon"/>
+<node id="Dinsic"/>
+<node id="Djbaju"/>
+<node id="Doleoy"/>
+<node id="Do19oy"/>
+<node id="Etiath"/>
+<node id="Ethato"/>
+<node id="Faoyat"/>
+<node id="Fildit"/>
+<node id="Frwnre"/>
+<node id="Hoerom"/>
+<node id="Hoonou"/>
+<node id="Hoonov"/>
+<node id="Hueyux"/>
+<node id="Ishash"/>
+<node id="Isrosh"/>
+<node id="JKJKK"/>
+<node id="JK17KI"/>
+<node id="Joceoy"/>
+<node id="Kakaaf"/>
+<node id="Karial"/>
+<node id="Kaguas"/>
+<node id="Ketsea"/>
+<node id="Kileib"/>
+<node id="Kiroil"/>
+<node id="Kivuiv"/>
+<node id="Li19ib"/>
+<node id="Ludaua"/>
+<node id="Molaog"/>
+<node id="Mosaom"/>
+<node id="Moueon"/>
+<node id="Mokaou"/>
+<node id="Muinuf"/>
+<node id="Mzzuzu"/>
+<node id="Nykayi"/>
+<node id="Okgaka"/>
+<node id="Okgoka"/>
+<node id="Orllrw"/>
+<node id="Pietik"/>
+<node id="Prttra"/>
+<node id="Sc15ca"/>
+<node id="Scpfch"/>
+<node id="Setier"/>
+<node id="Sesseu"/>
+<node id="Sheyhe"/>
+<node id="ShRahe"/>
+<node id="Sineie"/>
+<node id="Stckte"/>
+<node id="Takaan"/>
+<node id="Thiahe"/>
+<node id="Tofoof"/>
+<node id="Toenol"/>
+<node id="Tooyol"/>
+<node id="Trnsra"/>
+<node id="Tunaur"/>
+<node id="Vigair"/>
+<node id="Wadaak"/>
+<node id="Xenaen"/>
+<node id="Yaraao"/>
+<node id="Zaiaam"/>
+<node id="Zobaom"/>
+<edge source="Addede" target="1">
+  <data key="d0">56.0</data>
+</edge>
+<edge source="1" target="Amlimb">
+  <data key="d0">67.0</data>
+</edge>
+<edge source="1" target="Anvont">
+  <data key="d0">69.0</data>
+</edge>
+<edge source="1" target="Asovsi">
+  <data key="d0">43.0</data>
+</edge>
+<edge source="1" target="Auenus">
+  <data key="d0">46.0</data>
+</edge>
+<edge source="1" target="Au19us">
+  <data key="d0">24.0</data>
+</edge>
+<edge source="1" target="Bearea">
+  <data key="d0">24.0</data>
+</edge>
+<edge source="1" target="Brtero">
+  <data key="d0">59.0</data>
+</edge>
+<edge source="1" target="Byonyr">
+  <data key="d0">51.0</data>
+</edge>
+<edge source="1" target="Caviap">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Callar">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Chbeho">
+  <data key="d0">44.0</data>
+</edge>
+<edge source="1" target="CJJDJD">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Clrale">
+  <data key="d0">27.0</data>
+</edge>
+<edge source="1" target="Cohooe">
+  <data key="d0">81.0</data>
+</edge>
+<edge source="1" target="Coinon">
+  <data key="d0">51.0</data>
+</edge>
+<edge source="1" target="Dinsic">
+  <data key="d0">102.0</data>
+</edge>
+<edge source="1" target="Djbaju">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Doleoy">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Do19oy">
+  <data key="d0">65.0</data>
+</edge>
+<edge source="1" target="Etiath">
+  <data key="d0">104.0</data>
+</edge>
+<edge source="1" target="Ethato">
+  <data key="d0">28.0</data>
+</edge>
+<edge source="1" target="Faoyat">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Fildit">
+  <data key="d0">58.0</data>
+</edge>
+<edge source="1" target="Frwnre">
+  <data key="d0">22.0</data>
+</edge>
+<edge source="1" target="Hoerom">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Hoonou">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Hoonov">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Hueyux">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Ishash">
+  <data key="d0">148.0</data>
+</edge>
+<edge source="1" target="Isrosh">
+  <data key="d0">121.0</data>
+</edge>
+<edge source="1" target="JKJKK">
+  <data key="d0">74.0</data>
+</edge>
+<edge source="1" target="JK17KI">
+  <data key="d0">105.0</data>
+</edge>
+<edge source="1" target="Joceoy">
+  <data key="d0">57.0</data>
+</edge>
+<edge source="1" target="Kakaaf">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Karial">
+  <data key="d0">41.0</data>
+</edge>
+<edge source="1" target="Kaguas">
+  <data key="d0">149.0</data>
+</edge>
+<edge source="1" target="Ketsea">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Kileib">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Kiroil">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Kivuiv">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Li19ib">
+  <data key="d0">50.0</data>
+</edge>
+<edge source="1" target="Ludaua">
+  <data key="d0">121.0</data>
+</edge>
+<edge source="1" target="Molaog">
+  <data key="d0">98.0</data>
+</edge>
+<edge source="1" target="Mosaom">
+  <data key="d0">61.0</data>
+</edge>
+<edge source="1" target="Moueon">
+  <data key="d0">55.0</data>
+</edge>
+<edge source="1" target="Mokaou">
+  <data key="d0">32.0</data>
+</edge>
+<edge source="1" target="Muinuf">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Mzzuzu">
+  <data key="d0">89.0</data>
+</edge>
+<edge source="1" target="Nykayi">
+  <data key="d0">103.0</data>
+</edge>
+<edge source="1" target="Okgaka">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Okgoka">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Orllrw">
+  <data key="d0">100.0</data>
+</edge>
+<edge source="1" target="Pietik">
+  <data key="d0">16.0</data>
+</edge>
+<edge source="1" target="Prttra">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Sc15ca">
+  <data key="d0">109.0</data>
+</edge>
+<edge source="1" target="Scpfch">
+  <data key="d0">36.0</data>
+</edge>
+<edge source="1" target="Setier">
+  <data key="d0">148.0</data>
+</edge>
+<edge source="1" target="Sesseu">
+  <data key="d0">70.0</data>
+</edge>
+<edge source="1" target="Sheyhe">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="ShRahe">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Sineie">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Stckte">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Takaan">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Thiahe">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Tofoof">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Toenol">
+  <data key="d0">53.0</data>
+</edge>
+<edge source="1" target="Tooyol">
+  <data key="d0">42.0</data>
+</edge>
+<edge source="1" target="Trnsra">
+  <data key="d0">19.0</data>
+</edge>
+<edge source="1" target="Tunaur">
+  <data key="d0">127.0</data>
+</edge>
+<edge source="1" target="Vigair">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Wadaak">
+  <data key="d0">51.0</data>
+</edge>
+<edge source="1" target="Xenaen">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Yaraao">
+  <data key="d0">nan</data>
+</edge>
+<edge source="1" target="Zaiaam">
+  <data key="d0">118.0</data>
+</edge>
+<edge source="1" target="Zobaom">
+  <data key="d0">nan</data>
+</edge>
+</graph></graphml>

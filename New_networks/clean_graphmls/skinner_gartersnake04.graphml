@@ -1,0 +1,1031 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="BGS-2170"/>
+<node id="BGS-1951"/>
+<node id="BGS-31"/>
+<node id="BGS-1713"/>
+<node id="BGS-1708"/>
+<node id="BGS-1378"/>
+<node id="BGS-1873"/>
+<node id="BGS-1391"/>
+<node id="BGS-1551"/>
+<node id="BGS-2046"/>
+<node id="BGS-2392"/>
+<node id="BGS-1341"/>
+<node id="BGS-626"/>
+<node id="BGS-2516"/>
+<node id="BGS-2341"/>
+<node id="BGS-1926"/>
+<node id="BGS-1563"/>
+<node id="BGS-2575"/>
+<node id="BGS-2633"/>
+<node id="BGS-3236"/>
+<node id="BGS-1569"/>
+<node id="BGS-3241"/>
+<node id="BGS-1527"/>
+<node id="BGS-1286"/>
+<node id="BGS-1836"/>
+<node id="BGS-1585"/>
+<node id="BGS-1707"/>
+<node id="BGS-2558"/>
+<node id="BGS-2346"/>
+<node id="BGS-1876"/>
+<node id="BGS-1994"/>
+<node id="BGS-1573"/>
+<node id="BGS-1192"/>
+<node id="BGS-1950"/>
+<node id="BGS-1740"/>
+<node id="BGS-270b"/>
+<node id="BGS-1455"/>
+<node id="BGS-1400"/>
+<node id="BGS-1574"/>
+<node id="BGS-2714"/>
+<node id="BGS-1556"/>
+<node id="BGS-2233"/>
+<node id="BGS-1809"/>
+<node id="BGS-1965"/>
+<node id="BGS-3124"/>
+<node id="BGS-3117"/>
+<node id="BGS-1730"/>
+<node id="BGS-1934"/>
+<node id="BGS-2706"/>
+<node id="BGS-1702"/>
+<node id="BGS-2342"/>
+<node id="BGS-1363"/>
+<node id="BGS-1342"/>
+<node id="BGS-2800"/>
+<node id="BGS-2064"/>
+<node id="BGS-1830"/>
+<node id="BGS-1293"/>
+<node id="BGS-1966"/>
+<node id="BGS-2930"/>
+<node id="BGS-1865"/>
+<node id="BGS-2801"/>
+<node id="BGS-2043"/>
+<node id="BGS-2682"/>
+<node id="BGS-2827"/>
+<node id="BGS-2374"/>
+<node id="BGS-1751"/>
+<node id="BGS-1933"/>
+<node id="BGS-3234"/>
+<node id="BGS-1287"/>
+<node id="BGS-1687"/>
+<node id="BGS-1891"/>
+<node id="BGS-1565"/>
+<node id="BGS-2426"/>
+<node id="BGS-2802"/>
+<node id="BGS-1895"/>
+<node id="BGS-1871"/>
+<node id="BGS-1389"/>
+<node id="BGS-2002"/>
+<node id="BGS-3123"/>
+<node id="BGS-1964"/>
+<node id="BGS-2765"/>
+<node id="BGS-628"/>
+<node id="BGS-2634"/>
+<node id="BGS-1962"/>
+<node id="BGS-2006"/>
+<node id="BGS-1734"/>
+<node id="BGS-2005"/>
+<node id="BGS-1718"/>
+<node id="BGS-2080"/>
+<node id="BGS-1385"/>
+<node id="BGS-1665"/>
+<node id="BGS-1505"/>
+<node id="BGS-1686"/>
+<node id="BGS-2767"/>
+<node id="BGS-1284"/>
+<node id="BGS-1752"/>
+<node id="BGS-2708"/>
+<node id="BGS-2766"/>
+<node id="BGS-1703"/>
+<node id="BGS-1729"/>
+<node id="BGS-3235"/>
+<node id="BGS-1888"/>
+<node id="BGS-1963"/>
+<node id="BGS-2741"/>
+<node id="BGS-1866"/>
+<node id="BGS-2065"/>
+<node id="BGS-1571"/>
+<node id="BGS-1550"/>
+<node id="BGS-1506"/>
+<node id="BGS-1435"/>
+<node id="BGS-2000"/>
+<node id="BGS-1927"/>
+<node id="BGS-1922"/>
+<node id="BGS-2323"/>
+<node id="BGS-2171"/>
+<node id="BGS-1623"/>
+<node id="BGS-1874"/>
+<node id="BGS-1848"/>
+<node id="BGS-779"/>
+<node id="BGS-1954"/>
+<node id="BGS-1507"/>
+<node id="BGS-1983"/>
+<node id="BGS-2338"/>
+<node id="BGS-1869"/>
+<node id="BGS-1647"/>
+<node id="BGS-1624"/>
+<node id="BGS-1743"/>
+<node id="BGS-1283"/>
+<node id="BGS-1931"/>
+<node id="BGS-1570"/>
+<node id="BGS-1739"/>
+<node id="BGS-1728"/>
+<node id="BGS-1834"/>
+<node id="BGS-1564"/>
+<node id="BGS-1875"/>
+<node id="BGS-1690"/>
+<node id="BGS-1328"/>
+<node id="BGS-1575"/>
+<node id="BGS-1578"/>
+<node id="BGS-1285"/>
+<node id="BGS-2742"/>
+<node id="BGS-1870"/>
+<node id="BGS-1390"/>
+<node id="BGS-1256"/>
+<node id="BGS-1259"/>
+<node id="BGS-2699"/>
+<node id="BGS-1945"/>
+<node id="BGS-1892"/>
+<node id="BGS-1257"/>
+<node id="BGS-627"/>
+<node id="BGS-1847"/>
+<node id="BGS-2698"/>
+<node id="BGS-1803"/>
+<node id="BGS-1692"/>
+<node id="BGS-1583"/>
+<node id="BGS-1664"/>
+<node id="BGS-2703"/>
+<node id="BGS-1579"/>
+<node id="BGS-1388"/>
+<node id="BGS-1862"/>
+<node id="BGS-1953"/>
+<edge source="BGS-2170" target="BGS-1964">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1951" target="BGS-1803">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1951" target="BGS-1950">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-31" target="BGS-1707">
+  <data key="d0">2</data>
+</edge>
+<edge source="BGS-31" target="BGS-1862">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1713" target="BGS-1385">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1713" target="BGS-1506">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1713" target="BGS-1751">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1713" target="BGS-1865">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1713" target="BGS-1866">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1713" target="BGS-1963">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1713" target="BGS-779">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1708" target="BGS-1803">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1708" target="BGS-1865">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1708" target="BGS-1866">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1378" target="BGS-1256">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1378" target="BGS-1285">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1378" target="BGS-1286">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1378" target="BGS-1363">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1378" target="BGS-1388">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1378" target="BGS-1389">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1378" target="BGS-1390">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1378" target="BGS-1391">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1378" target="BGS-270b">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1873" target="BGS-1874">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1391" target="BGS-1285">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1391" target="BGS-1286">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1391" target="BGS-1363">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1391" target="BGS-1388">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1391" target="BGS-1389">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1391" target="BGS-1390">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1391" target="BGS-270b">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1551" target="BGS-1550">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2046" target="BGS-2006">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2392" target="BGS-1836">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1341" target="BGS-1342">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1341" target="BGS-1400">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1341" target="BGS-1739">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1341" target="BGS-1740">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1341" target="BGS-1752">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-626" target="BGS-627">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-626" target="BGS-628">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-626" target="BGS-779">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2516" target="BGS-1892">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2516" target="BGS-2741">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2341" target="BGS-2338">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2341" target="BGS-2575">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1926" target="BGS-1927">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1563" target="BGS-1385">
+  <data key="d0">2</data>
+</edge>
+<edge source="BGS-1563" target="BGS-1564">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1563" target="BGS-1565">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1563" target="BGS-1569">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1563" target="BGS-1836">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1563" target="BGS-1865">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1563" target="BGS-1876">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1563" target="BGS-1931">
+  <data key="d0">2</data>
+</edge>
+<edge source="BGS-2575" target="BGS-2233">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2575" target="BGS-2323">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2575" target="BGS-2426">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2575" target="BGS-2682">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2575" target="BGS-2741">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2575" target="BGS-2800">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2575" target="BGS-2802">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2575" target="BGS-2930">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2575" target="BGS-3123">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2575" target="BGS-3124">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2575" target="BGS-3241">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2633" target="BGS-1927">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2633" target="BGS-2634">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-3236" target="BGS-3234">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-3236" target="BGS-3235">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1569" target="BGS-1257">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1569" target="BGS-1385">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1569" target="BGS-1527">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1569" target="BGS-1570">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1569" target="BGS-1623">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1569" target="BGS-1624">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1569" target="BGS-1865">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1569" target="BGS-1931">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1569" target="BGS-2000">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-3241" target="BGS-3234">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1527" target="BGS-1328">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1527" target="BGS-1570">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1527" target="BGS-1624">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1286" target="BGS-1192">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1286" target="BGS-1256">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1286" target="BGS-1283">
+  <data key="d0">2</data>
+</edge>
+<edge source="BGS-1286" target="BGS-1284">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1286" target="BGS-1285">
+  <data key="d0">2</data>
+</edge>
+<edge source="BGS-1286" target="BGS-1287">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1286" target="BGS-1293">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1286" target="BGS-1363">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1286" target="BGS-1388">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1286" target="BGS-1389">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1286" target="BGS-1390">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1286" target="BGS-270b">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1836" target="BGS-1385">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1836" target="BGS-1876">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1836" target="BGS-1927">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1836" target="BGS-1931">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1585" target="BGS-1259">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1585" target="BGS-1455">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1585" target="BGS-1571">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1585" target="BGS-1665">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1585" target="BGS-1730">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1585" target="BGS-1888">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1585" target="BGS-2002">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1707" target="BGS-1809">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1707" target="BGS-1895">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1707" target="BGS-1964">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1707" target="BGS-1965">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1707" target="BGS-1983">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2558" target="BGS-2323">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2558" target="BGS-2342">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2558" target="BGS-2374">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2558" target="BGS-2703">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2558" target="BGS-2741">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2558" target="BGS-2742">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2346" target="BGS-1964">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1876" target="BGS-1385">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1876" target="BGS-1875">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1876" target="BGS-1931">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1994" target="BGS-2342">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1994" target="BGS-2714">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1573" target="BGS-1574">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1573" target="BGS-1575">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1573" target="BGS-1686">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1192" target="BGS-1257">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1192" target="BGS-1283">
+  <data key="d0">2</data>
+</edge>
+<edge source="BGS-1950" target="BGS-1803">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1740" target="BGS-1400">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1740" target="BGS-1728">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1740" target="BGS-1739">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-270b" target="BGS-1285">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-270b" target="BGS-1363">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-270b" target="BGS-1388">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-270b" target="BGS-1389">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-270b" target="BGS-1390">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1455" target="BGS-1665">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1400" target="BGS-1435">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1400" target="BGS-1739">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1574" target="BGS-1575">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2714" target="BGS-2342">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2714" target="BGS-2767">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1556" target="BGS-1385">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2233" target="BGS-2323">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2233" target="BGS-2708">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2233" target="BGS-2741">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1965" target="BGS-1964">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-3124" target="BGS-3123">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-3117" target="BGS-2802">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1730" target="BGS-1729">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1730" target="BGS-1888">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1730" target="BGS-1966">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1934" target="BGS-1385">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1934" target="BGS-1865">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1934" target="BGS-1874">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1934" target="BGS-1931">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1934" target="BGS-1933">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1934" target="BGS-2006">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1934" target="BGS-2064">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1934" target="BGS-2065">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2706" target="BGS-2682">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1702" target="BGS-1687">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1702" target="BGS-1692">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1702" target="BGS-1703">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1702" target="BGS-1734">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2342" target="BGS-2742">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1363" target="BGS-1285">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1363" target="BGS-1388">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1363" target="BGS-1389">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1363" target="BGS-1390">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2800" target="BGS-2802">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2064" target="BGS-2006">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2064" target="BGS-2065">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1830" target="BGS-1259">
+  <data key="d0">2</data>
+</edge>
+<edge source="BGS-1830" target="BGS-1803">
+  <data key="d0">2</data>
+</edge>
+<edge source="BGS-1830" target="BGS-1865">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1830" target="BGS-1874">
+  <data key="d0">2</data>
+</edge>
+<edge source="BGS-1293" target="BGS-1283">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1293" target="BGS-1284">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1293" target="BGS-1285">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1293" target="BGS-1287">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2930" target="BGS-1953">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1865" target="BGS-1385">
+  <data key="d0">3</data>
+</edge>
+<edge source="BGS-1865" target="BGS-1803">
+  <data key="d0">2</data>
+</edge>
+<edge source="BGS-1865" target="BGS-1866">
+  <data key="d0">2</data>
+</edge>
+<edge source="BGS-1865" target="BGS-1874">
+  <data key="d0">2</data>
+</edge>
+<edge source="BGS-1865" target="BGS-1931">
+  <data key="d0">2</data>
+</edge>
+<edge source="BGS-2801" target="BGS-2323">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2801" target="BGS-2741">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2043" target="BGS-1888">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2682" target="BGS-2323">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2827" target="BGS-2741">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2374" target="BGS-2698">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2374" target="BGS-2699">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1751" target="BGS-1963">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-3234" target="BGS-3235">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1287" target="BGS-1283">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1287" target="BGS-1284">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1287" target="BGS-1285">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1687" target="BGS-1686">
+  <data key="d0">2</data>
+</edge>
+<edge source="BGS-1687" target="BGS-1703">
+  <data key="d0">2</data>
+</edge>
+<edge source="BGS-1687" target="BGS-1718">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1687" target="BGS-1728">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1687" target="BGS-1734">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1687" target="BGS-1743">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1891" target="BGS-1743">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1891" target="BGS-1888">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1891" target="BGS-1964">
+  <data key="d0">2</data>
+</edge>
+<edge source="BGS-1565" target="BGS-1564">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1871" target="BGS-1834">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1871" target="BGS-1848">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1871" target="BGS-1869">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1871" target="BGS-1870">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1871" target="BGS-1953">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1871" target="BGS-1954">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1389" target="BGS-1285">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1389" target="BGS-1388">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1389" target="BGS-1390">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1964" target="BGS-1647">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1964" target="BGS-1743">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1964" target="BGS-1888">
+  <data key="d0">2</data>
+</edge>
+<edge source="BGS-1964" target="BGS-1945">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1964" target="BGS-2080">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2765" target="BGS-2766">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-628" target="BGS-627">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1962" target="BGS-1963">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2006" target="BGS-1578">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2006" target="BGS-1803">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2006" target="BGS-1892">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2006" target="BGS-2005">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2006" target="BGS-2065">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1734" target="BGS-1703">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2005" target="BGS-1803">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2005" target="BGS-1892">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1718" target="BGS-1703">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2080" target="BGS-1888">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1385" target="BGS-1866">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1385" target="BGS-1874">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1385" target="BGS-1931">
+  <data key="d0">3</data>
+</edge>
+<edge source="BGS-1505" target="BGS-1506">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1505" target="BGS-1507">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1686" target="BGS-1570">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1686" target="BGS-1692">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1686" target="BGS-1728">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1686" target="BGS-1743">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1284" target="BGS-1283">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1284" target="BGS-1285">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2766" target="BGS-2703">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1703" target="BGS-1728">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1888" target="BGS-1743">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2741" target="BGS-1892">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2741" target="BGS-1922">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2741" target="BGS-2323">
+  <data key="d0">3</data>
+</edge>
+<edge source="BGS-1866" target="BGS-1803">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1571" target="BGS-1259">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1550" target="BGS-1834">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1506" target="BGS-1507">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1506" target="BGS-779">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1927" target="BGS-1892">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2171" target="BGS-2698">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1623" target="BGS-1257">
+  <data key="d0">2</data>
+</edge>
+<edge source="BGS-1623" target="BGS-1624">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1623" target="BGS-1664">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1874" target="BGS-1259">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1874" target="BGS-1803">
+  <data key="d0">2</data>
+</edge>
+<edge source="BGS-1874" target="BGS-1931">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1848" target="BGS-1847">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1954" target="BGS-1869">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1954" target="BGS-1953">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1869" target="BGS-1953">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1647" target="BGS-1945">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1624" target="BGS-1257">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1624" target="BGS-1328">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1743" target="BGS-1728">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1283" target="BGS-1257">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1283" target="BGS-1285">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1690" target="BGS-1692">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1578" target="BGS-1579">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1285" target="BGS-1388">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1285" target="BGS-1390">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1390" target="BGS-1388">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1256" target="BGS-1257">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1259" target="BGS-1803">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-2699" target="BGS-2698">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1892" target="BGS-1803">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1257" target="BGS-1583">
+  <data key="d0">1</data>
+</edge>
+<edge source="BGS-1257" target="BGS-1664">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>

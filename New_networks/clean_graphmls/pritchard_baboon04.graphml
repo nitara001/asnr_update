@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="by"/>
+<node id="bz"/>
+<node id="dv"/>
+<node id="gv"/>
+<node id="il"/>
+<node id="ks"/>
+<node id="mw"/>
+<node id="oh"/>
+<node id="oo"/>
+<node id="qa"/>
+<node id="qr"/>
+<node id="sq"/>
+<node id="vd"/>
+<node id="xt"/>
+<node id="zb"/>
+<edge source="by" target="bz">
+  <data key="d0">0.021092102</data>
+</edge>
+<edge source="by" target="dv">
+  <data key="d0">0.007030701</data>
+</edge>
+<edge source="by" target="gv">
+  <data key="d0">0.007142857</data>
+</edge>
+<edge source="by" target="ks">
+  <data key="d0">0.007030701</data>
+</edge>
+<edge source="by" target="oh">
+  <data key="d0">0.014143605</data>
+</edge>
+<edge source="by" target="oo">
+  <data key="d0">0.007194245</data>
+</edge>
+<edge source="by" target="qa">
+  <data key="d0">0.00703441</data>
+</edge>
+<edge source="by" target="sq">
+  <data key="d0">0.021365563</data>
+</edge>
+<edge source="by" target="vd">
+  <data key="d0">0.007113134</data>
+</edge>
+<edge source="bz" target="mw">
+  <data key="d0">0.014388489</data>
+</edge>
+<edge source="bz" target="oh">
+  <data key="d0">0.007071802</data>
+</edge>
+<edge source="bz" target="vd">
+  <data key="d0">0.007068803</data>
+</edge>
+<edge source="bz" target="xt">
+  <data key="d0">0.020923177</data>
+</edge>
+<edge source="dv" target="zb">
+  <data key="d0">0.007224998</data>
+</edge>
+<edge source="gv" target="mw">
+  <data key="d0">0.007194245</data>
+</edge>
+<edge source="gv" target="oo">
+  <data key="d0">0.007194245</data>
+</edge>
+<edge source="gv" target="qa">
+  <data key="d0">0.00703441</data>
+</edge>
+<edge source="il" target="sq">
+  <data key="d0">0.006947017</data>
+</edge>
+<edge source="il" target="vd">
+  <data key="d0">0.007113134</data>
+</edge>
+<edge source="ks" target="mw">
+  <data key="d0">0.013513514</data>
+</edge>
+<edge source="mw" target="oo">
+  <data key="d0">0.014388489</data>
+</edge>
+<edge source="mw" target="qa">
+  <data key="d0">0.014388489</data>
+</edge>
+<edge source="mw" target="sq">
+  <data key="d0">0.043165468</data>
+</edge>
+<edge source="mw" target="zb">
+  <data key="d0">0.007194245</data>
+</edge>
+<edge source="oh" target="oo">
+  <data key="d0">0.007071802</data>
+</edge>
+<edge source="oh" target="sq">
+  <data key="d0">0.014239234</data>
+</edge>
+<edge source="oh" target="zb">
+  <data key="d0">0.007224998</data>
+</edge>
+<edge source="oo" target="qa">
+  <data key="d0">0.007194245</data>
+</edge>
+<edge source="oo" target="sq">
+  <data key="d0">0.014334862</data>
+</edge>
+<edge source="oo" target="zb">
+  <data key="d0">0.014388489</data>
+</edge>
+<edge source="qa" target="qr">
+  <data key="d0">0.021423981</data>
+</edge>
+<edge source="qa" target="sq">
+  <data key="d0">0.028669725</data>
+</edge>
+<edge source="qa" target="xt">
+  <data key="d0">0.020983195</data>
+</edge>
+<edge source="qa" target="zb">
+  <data key="d0">0.007224998</data>
+</edge>
+<edge source="qr" target="sq">
+  <data key="d0">0.007167431</data>
+</edge>
+<edge source="sq" target="vd">
+  <data key="d0">0.014334862</data>
+</edge>
+<edge source="vd" target="zb">
+  <data key="d0">0.02878813</data>
+</edge>
+<edge source="xt" target="zb">
+  <data key="d0">0.014449997</data>
+</edge>
+</graph></graphml>
