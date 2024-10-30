@@ -1,4 +1,4 @@
-﻿focal,partner,simple_ratio,focal.sex,partner.sex,focal.age,partner.age
+﻿source,target,weight,focal.sex,partner.sex,focal.age,partner.age
 bob,bj,0,male,female,12.28747433,6.080766598
 booboo,bj,0,male,female,31.58110883,6.080766598
 brandon,bj,0,male,female,7.58110883,6.080766598
