@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="ID10"/>
+<node id="ID17"/>
+<node id="ID24"/>
+<node id="ID34"/>
+<node id="ID68"/>
+<node id="ID78"/>
+<edge source="ID10" target="ID17">
+  <data key="d0">0.02</data>
+</edge>
+<edge source="ID10" target="ID24">
+  <data key="d0">0.0039</data>
+</edge>
+<edge source="ID10" target="ID34">
+  <data key="d0">0.0289</data>
+</edge>
+<edge source="ID10" target="ID68">
+  <data key="d0">0.0042</data>
+</edge>
+<edge source="ID10" target="ID78">
+  <data key="d0">0.004</data>
+</edge>
+<edge source="ID17" target="ID24">
+  <data key="d0">0.0551</data>
+</edge>
+<edge source="ID17" target="ID34">
+  <data key="d0">0.0283</data>
+</edge>
+<edge source="ID17" target="ID78">
+  <data key="d0">0.0277</data>
+</edge>
+<edge source="ID24" target="ID34">
+  <data key="d0">0.0039</data>
+</edge>
+<edge source="ID24" target="ID68">
+  <data key="d0">0.0039</data>
+</edge>
+<edge source="ID24" target="ID78">
+  <data key="d0">0.0934</data>
+</edge>
+<edge source="ID34" target="ID78">
+  <data key="d0">0.0198</data>
+</edge>
+<edge source="ID68" target="ID78">
+  <data key="d0">0.008</data>
+</edge>
+</graph></graphml>
